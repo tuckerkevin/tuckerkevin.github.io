@@ -1,0 +1,4 @@
+(imports a b)
+(export c)
+(def c (+ a b))
+

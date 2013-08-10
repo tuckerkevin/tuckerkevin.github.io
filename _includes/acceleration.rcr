@@ -1,0 +1,15 @@
+(include units)
+
+(imports speed dt)
+(export acceleration)
+
+(def speed-mps
+  (convert speed :mph :mps))
+
+(def acceleration-mps2
+  (/ (- speed-mps (pre speed-mps))
+  	 dt))
+
+(def acceleration
+  (convert acceleration-mps2 :mps2 :gravity))
+
