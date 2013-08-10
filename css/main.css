@@ -130,7 +130,7 @@ ul.posts span {
 /* standard */
 .post pre {
   border: 1px solid #ddd;
-  background-color: #0b0a0a;
+  background-color: #ffffff;
   padding: 0 .4em;
 }
 
@@ -140,7 +140,7 @@ ul.posts span {
 
 .post code {
   border: 1px solid #ddd;
-  background-color: #0b0a0a;
+  background-color: #ffffff;
   padding: 0 .2em;
 }
 
