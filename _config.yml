@@ -1,4 +1,6 @@
-name: tuckerkevin.github.io
+name: Kevin Tucker's Blog
+description: Kevin Tucker's Blog
+url: http://tuckerkevin.github.io
 markdown: redcarpet
 pygments: true
 permalink: none
