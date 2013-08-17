@@ -111,6 +111,17 @@ ul.posts span {
   color: #8085C1;
 }
 
+.site .footer .contact a.extra {
+  font-size: 115%;
+  text-decoration: none;
+  color: #aaa;
+  margin-right: 1em;
+}
+
+.site .footer .contact a.extra:hover {
+  color: #000;
+}
+
 .site .footer .rss {
   margin-top: 1.1em;
   margin-right: -.2em;
