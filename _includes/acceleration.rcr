@@ -8,7 +8,7 @@
 
 (def acceleration-mps2
   (/ (- speed-mps (pre speed-mps))
-  	 dt))
+     dt))
 
 (def acceleration
   (convert acceleration-mps2 :mps2 :gravity))
