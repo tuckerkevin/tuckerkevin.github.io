@@ -1,4 +1,6 @@
-.highlight  { color: #000000; background: #ffffff; }
+.post pre { background-color: #ffffff; }
+.post code { background-color: #ffffff; color: #000000; }
+.highlight  { color: #000000; background: transparent; }
 .highlight .c { color: #66664c; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { font-weight: bold } /* Keyword */
