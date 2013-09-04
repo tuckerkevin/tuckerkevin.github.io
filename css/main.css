@@ -100,6 +100,8 @@ ul.posts span {
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
 
 .site .footer .contact {
@@ -112,7 +114,7 @@ ul.posts span {
 }
 
 .site .footer .contact a.extra {
-  font-size: 115%;
+  font-size: 150%;
   text-decoration: none;
   color: #aaa;
   margin-right: 1em;
