@@ -35,6 +35,8 @@ a:hover {
 }
 
 em { color: deeppink; }
+a em { color: dodgerblue; }
+
 strong { color: deeppink; }
 
 hr {
