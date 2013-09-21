@@ -2,5 +2,7 @@ name: Kevin Tucker's Blog
 description: Kevin Tucker's Blog
 url: http://tuckerkevin.github.io
 markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
 pygments: true
 permalink: none

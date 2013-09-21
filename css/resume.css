@@ -1,0 +1,22 @@
+h1 {
+  font-size: 150%;
+}
+
+h2 {
+  font-size: 115%;
+  font-style: italic;
+  color: lawngreen;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  margin-left: -1em;
+}
+
+h3 {
+  font-style: italic;
+  color: #aaa;
+  margin-left: -1em;
+}
+
+em { color: black; }
+strong { color: black; }
+
