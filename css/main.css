@@ -13,7 +13,8 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color: white;
+  color: black;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -25,9 +26,33 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a {
+  color: dodgerblue;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+em { color: deeppink; }
+strong { color: deeppink; }
+
+hr {
+  border: none;
+  border-top: 4px solid lawngreen;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+img {
+  border: 2px solid black;
+  border-radius: 6px;
+  background-color: white;
+}
+
+table {
+  width: 100%;
+}
 
 /*****************************************************************************/
 /*
@@ -74,11 +99,11 @@ ul.posts span {
 }
 
 .site .header h1.title a {
-  color: #a00;
+  color: gold;
 }
 
 .site .header h1.title a:hover {
-  color: #000;
+  color: black;
 }
 
 .site .header a.extra {
@@ -87,7 +112,7 @@ ul.posts span {
 }
 
 .site .header a.extra:hover {
-  color: #000;
+  color: black;
 }
 
 .site .meta {
@@ -97,7 +122,7 @@ ul.posts span {
 .site .footer {
   font-size: 80%;
   color: #666;
-  border-top: 4px solid #eee;
+  border-top: 4px solid lawngreen;
   margin-top: 2em;
   overflow: hidden;
   padding-top: 2em;
@@ -121,7 +146,7 @@ ul.posts span {
 }
 
 .site .footer .contact a.extra:hover {
-  color: #000;
+  color: black;
 }
 
 .site .footer .rss {
@@ -134,6 +159,7 @@ ul.posts span {
   border: 0;
 }
 
+
 /*****************************************************************************/
 /*
 /* Posts
@@ -142,7 +168,8 @@ ul.posts span {
 
 /* standard */
 .post pre {
-  border: 1px solid #ddd;
+  border: 2px solid black;
+  border-radius: 6px;
   background-color: #eef;
   padding: 0 .4em;
 }
@@ -152,23 +179,31 @@ ul.posts span {
 }
 
 .post code {
-  border: 1px solid #ddd;
+  border: 2px solid black;
+  border-radius: 4px;
   background-color: #eef;
-  padding: 0 .2em;
+  padding: .2em;
 }
 
 .post pre code {
   border: none;
+  border-radius: none;
 }
 
 /* terminal */
 .post pre.terminal {
-  border: 1px solid #000;
+  border: 1px solid black;
   background-color: #333;
-  color: #FFF;
+  color: white;
 }
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+/* blockquote */
+.post blockquote {
+  border-left: 4px solid #aaa;
+  padding-left: 10px;
 }
 
