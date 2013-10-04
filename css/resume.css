@@ -1,3 +1,10 @@
+
+h1, p, table {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 h1 {
   font-size: 150%;
 }
@@ -8,13 +15,11 @@ h2 {
   color: lawngreen;
   margin-top: 1.5em;
   margin-bottom: 1em;
-  margin-left: -1em;
 }
 
 h3 {
   font-style: italic;
   color: #aaa;
-  margin-left: -1em;
 }
 
 em { color: black; }
