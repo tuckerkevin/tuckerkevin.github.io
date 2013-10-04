@@ -51,16 +51,19 @@ Although TekTone is a small company, it has provided me with a good opportunity 
 In the past, TekTone developed each new system with no interoperability with their existing systems. I lead an effort to break this paradigm and integrate these systems on a common platform. [Now everything including our low-end stations, our high-end stations, our wireless devices, and third party systems interoperate as part of one platform.](http://tektone.com/blog/archives/660) The development and release of this single platform to unify our fragmented product line has been one of biggest contributions I have made to the company.
 
 ## Education
+
 |                                             |                         |
 |---------------------------------------------|------------------------:|
 | **Master of Computer Science**              | May 2003                |
 | North Carolina State University             | Raleigh, North Carolina |
+
 *Favorite Courses:* Artificial Intelligence I & II, Computational Methods for Molecular Biology
 
 |                                             |                         |
 |---------------------------------------------|------------------------:|
 | **Bachelor of Science in Computer Science** | May 2001                |
 | Appalachian State University                | Boone, North Carolina   |
+
 *Favorite Courses:* Real-Time Systems
 
 ## Independent Coursework
