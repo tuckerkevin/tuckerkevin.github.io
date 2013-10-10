@@ -98,7 +98,7 @@ ul.posts span {
 .site .header h1.title {
   font-size: 200%;
   display: inline-block;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 
 .site .header h1.title a {
@@ -107,6 +107,10 @@ ul.posts span {
 
 .site .header h1.title a:hover {
   color: black;
+}
+
+.site .header h2.title {
+  margin-bottom: 2em;
 }
 
 .site .header a.extra {
