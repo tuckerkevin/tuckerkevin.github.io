@@ -3,7 +3,7 @@ layout: default
 title: About Kevin Tucker
 ---
 
-# About Kevin Tucker
+# About Me
 
 My name is Kevin Tucker. I live in the mountains of Western North Carolina.
 

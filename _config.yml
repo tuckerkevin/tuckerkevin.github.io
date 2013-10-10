@@ -1,6 +1,6 @@
-name: Kevin Tucker's Blog
+name: Free by Intent
 description: Kevin Tucker's Blog
-url: http://tuckerkevin.github.io
+url: http://freebyintent.com
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
