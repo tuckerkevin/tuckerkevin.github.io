@@ -111,7 +111,7 @@ A fully functional [alternative vehicle dash visualization]({{site.url}}/dash.ht
 
 ## Online
 
-[tuckerkevin.github.io](http://tuckerkevin.github.io)
+[freebyintent.com](http://freebyintent.com)
 
 The latest version of this document can be found here: [resume.pdf](https://dl.dropbox.com/u/17087118/resume.pdf), [resume.doc](https://dl.dropbox.com/u/17087118/resume.doc) or [resume.html]({{site.url}}/resume.html).
 
