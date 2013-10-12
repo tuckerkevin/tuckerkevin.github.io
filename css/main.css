@@ -210,7 +210,21 @@ ul.posts span {
 
 /* blockquote */
 .post blockquote {
-  border-left: 4px solid #aaa;
-  padding-left: 10px;
+  border: 2px solid black;
+  border-radius: 6px;
+  padding-left: 1em;
+  padding-right: 1em;
+  background-color: white;
+  color: black;
 }
+/*
+NOTE: adding a <i> tag with pull-left or pull-right seems to work better.
+.post blockquote:before {
+  content: "\f10d";
+  font-family: FontAwesome;
+  font-size: large;
+  float: left;
+  margin-right: 10px;
+}
+*/
 
