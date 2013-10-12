@@ -16,7 +16,7 @@ Distributed Systems, Embedded Systems, Wireless Systems, Desktop Applications, W
 C, Python, Ruby, SQL, C++, (HTML, CSS, JavaScript), Clojure, Common Lisp, Scheme, Erlang, Haskell, MatLab, Octave, R, Lua
 
 ### Tools
-Linux, jEdit, Git, Subversion, Mercurial, LaTeX, Graphviz, Processing, Arduino, LibreOffice
+Linux, jEdit, Git, Subversion, LaTeX, Graphviz, Processing, Arduino, OpenSCAD
 
 ### Interests
 Functional Programming, Domain-Specific Languages, Machine Learning, Reactive Systems & Control Systems, Digital Signal Processing, Data Visualization
