@@ -5,7 +5,10 @@ title: Kevin Lambert Tucker, Software Developer
 
 # Kevin Lambert Tucker, Software Developer
 
-[tuckerkevin@gmail.com](mailto://tuckerkevin@gmail.com)
+|                                                         |
+|--------------------------------------------------------:|
+| [tuckerkevin@gmail.com](mailto://tuckerkevin@gmail.com) |
+| [freebyintent.com](http://freebyintent.com)             |
 
 ## Experience, Skills & Interests
 
@@ -108,10 +111,4 @@ In the past, TekTone developed each new system with no interoperability with the
 A [synchronous dataflow programming language]({{site.url}}/dataflow.html).
 
 A fully functional [alternative vehicle dash visualization]({{site.url}}/dash.html).
-
-## Online
-
-[freebyintent.com](http://freebyintent.com)
-
-The latest version of this document can be found here: [resume.pdf](https://dl.dropbox.com/u/17087118/resume.pdf), [resume.doc](https://dl.dropbox.com/u/17087118/resume.doc) or [resume.html]({{site.url}}/resume.html).
 
