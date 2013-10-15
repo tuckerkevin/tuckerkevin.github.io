@@ -5,12 +5,12 @@ title: Kevin Lambert Tucker, Software Developer
 
 # Kevin Lambert Tucker, Software Developer
 
-|                                                         |
-|--------------------------------------------------------:|
-| [tuckerkevin@gmail.com](mailto://tuckerkevin@gmail.com) |
-| [freebyintent.com](http://freebyintent.com)             |
+|                                                                                           |
+|------------------------------------------------------------------------------------------:|
+| [tuckerkevin@gmail.com <i class="icon-envelope-alt"></i>](mailto://tuckerkevin@gmail.com) |
+| [freebyintent.com <i class="icon-globe"></i>](http://freebyintent.com)                    |
 
-## Experience, Skills & Interests
+## <i class="icon-star"></i> Experience, Skills & Interests
 
 ### Applications
 Distributed Systems, Embedded Systems, Wireless Systems, Desktop Applications, Web Applications, Domain Specific Languages and Tools
@@ -24,7 +24,7 @@ Linux, jEdit, Git, Subversion, LaTeX, Graphviz, Processing, Arduino, OpenSCAD
 ### Interests
 Functional Programming, Domain-Specific Languages, Machine Learning, Reactive Systems & Control Systems, Digital Signal Processing, Data Visualization
 
-## Employment
+## <i class="icon-briefcase"></i> Employment
 
 |                                                             |                              |
 |-------------------------------------------------------------|-----------------------------:|
@@ -53,7 +53,7 @@ Although TekTone is a small company, it has provided me with a good opportunity 
 
 In the past, TekTone developed each new system with no interoperability with their existing systems. I lead an effort to break this paradigm and integrate these systems on a common platform. [Now everything including our low-end stations, our high-end stations, our wireless devices, and third party systems interoperate as part of one platform.](http://tektone.com/blog/archives/660) The development and release of this single platform to unify our fragmented product line has been one of biggest contributions I have made to the company.
 
-## Education
+## <i class="icon-certificate"></i> Education
 
 |                                             |                         |
 |---------------------------------------------|------------------------:|
@@ -69,7 +69,7 @@ In the past, TekTone developed each new system with no interoperability with the
 
 *Favorite Courses:* Real-Time Systems
 
-## Independent Coursework
+## <i class="icon-book"></i> Independent Coursework
 
 |                                                 |                                                           |
 |-------------------------------------------------|----------------------------------------------------------:|
@@ -106,7 +106,7 @@ In the past, TekTone developed each new system with no interoperability with the
 | **Motorcycle Dynamics & Suspension Seminar**    | July 31 - August 1 2006                                   |
 | [Tony Foale Designs](http://www.tonyfoale.com/) | Columbus, Ohio                                            |
 
-## Independent Projects
+## <i class="icon-heart"></i> Independent Projects
 
 A [synchronous dataflow programming language]({{site.url}}/dataflow.html).
 
