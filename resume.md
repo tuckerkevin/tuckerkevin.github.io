@@ -10,7 +10,7 @@ title: Kevin Lambert Tucker, Software Developer
 | [tuckerkevin@gmail.com <i class="icon-envelope-alt"></i>](mailto://tuckerkevin@gmail.com) |
 | [freebyintent.com <i class="icon-globe"></i>](http://freebyintent.com)                    |
 
-## <i class="icon-star"></i> Experience, Skills & Interests
+## <i class="icon-check"></i> Experience & Skills
 
 ### Applications
 Distributed Systems, Embedded Systems, Wireless Systems, Desktop Applications, Web Applications, Domain Specific Languages and Tools
@@ -21,8 +21,16 @@ C, Python, Ruby, SQL, C++, (HTML, CSS, JavaScript), Clojure, Common Lisp, Scheme
 ### Tools
 Linux, jEdit, Git, Subversion, LaTeX, Graphviz, Processing, Arduino, OpenSCAD
 
+## <i class="icon-heart"></i> Interests & Independent Projects
+
 ### Interests
 Functional Programming, Domain-Specific Languages, Machine Learning, Reactive Systems & Control Systems, Digital Signal Processing, Data Visualization
+
+### Projects
+
+A [synchronous dataflow programming language]({{site.url}}/dataflow.html).
+
+A fully functional [alternative vehicle dash visualization]({{site.url}}/dash.html).
 
 ## <i class="icon-briefcase"></i> Employment
 
@@ -105,10 +113,4 @@ In the past, TekTone developed each new system with no interoperability with the
 |-------------------------------------------------|----------------------------------------------------------:|
 | **Motorcycle Dynamics & Suspension Seminar**    | July 31 - August 1 2006                                   |
 | [Tony Foale Designs](http://www.tonyfoale.com/) | Columbus, Ohio                                            |
-
-## <i class="icon-heart"></i> Independent Projects
-
-A [synchronous dataflow programming language]({{site.url}}/dataflow.html).
-
-A fully functional [alternative vehicle dash visualization]({{site.url}}/dash.html).
 
