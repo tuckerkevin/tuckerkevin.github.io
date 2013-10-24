@@ -5,12 +5,12 @@ title: Kevin Lambert Tucker, Software Developer
 
 # Kevin Lambert Tucker, Software Developer
 
-|                                                                                           |
-|------------------------------------------------------------------------------------------:|
-| [tuckerkevin@gmail.com <i class="icon-envelope-alt"></i>](mailto://tuckerkevin@gmail.com) |
-| [freebyintent.com <i class="icon-globe"></i>](http://freebyintent.com)                    |
+|                                                                                          |
+|-----------------------------------------------------------------------------------------:|
+| [tuckerkevin@gmail.com <i class="fa fa-envelope-o"></i>](mailto://tuckerkevin@gmail.com) |
+| [freebyintent.com <i class="fa fa-globe"></i>](http://freebyintent.com)                  |
 
-## <i class="icon-check"></i> Experience & Skills
+## <i class="fa fa-check-square"></i> Experience & Skills
 
 ### Applications
 Distributed Systems, Embedded Systems, Wireless Systems, Desktop Applications, Web Applications, Domain Specific Languages and Tools
@@ -21,7 +21,7 @@ C, Python, Ruby, SQL, C++, (HTML, CSS, JavaScript), Clojure, Common Lisp, Scheme
 ### Tools
 Linux, jEdit, Git, Subversion, LaTeX, Graphviz, Processing, Arduino, OpenSCAD
 
-## <i class="icon-heart"></i> Interests & Independent Projects
+## <i class="fa fa-heart"></i> Interests & Independent Projects
 
 ### Interests
 Functional Programming, Domain-Specific Languages, Machine Learning, Reactive Systems & Control Systems, Digital Signal Processing, Data Visualization
@@ -32,7 +32,7 @@ A [synchronous dataflow programming language]({{site.url}}/dataflow.html).
 
 A fully functional [alternative vehicle dash visualization]({{site.url}}/dash.html).
 
-## <i class="icon-briefcase"></i> Employment
+## <i class="fa fa-briefcase"></i> Employment
 
 |                                                             |                              |
 |-------------------------------------------------------------|-----------------------------:|
@@ -61,7 +61,7 @@ Although TekTone is a small company, it has provided me with a good opportunity 
 
 In the past, TekTone developed each new system with no interoperability with their existing systems. I lead an effort to break this paradigm and integrate these systems on a common platform. [Now everything including our low-end stations, our high-end stations, our wireless devices, and third party systems interoperate as part of one platform.](http://tektone.com/blog/archives/660) The development and release of this single platform to unify our fragmented product line has been one of biggest contributions I have made to the company.
 
-## <i class="icon-certificate"></i> Education
+## <i class="fa fa-certificate"></i> Education
 
 |                                             |                         |
 |---------------------------------------------|------------------------:|
@@ -77,7 +77,7 @@ In the past, TekTone developed each new system with no interoperability with the
 
 *Favorite Courses:* Real-Time Systems
 
-## <i class="icon-book"></i> Independent Coursework
+## <i class="fa fa-book"></i> Independent Coursework
 
 |                                                 |                                                           |
 |-------------------------------------------------|----------------------------------------------------------:|
