@@ -10,7 +10,7 @@ title: Kevin Lambert Tucker, Software Developer
 | [tuckerkevin@gmail.com <i class="fa fa-envelope-o"></i>](mailto://tuckerkevin@gmail.com) |
 | [freebyintent.com <i class="fa fa-globe"></i>](http://freebyintent.com)                  |
 
-## <i class="fa fa-check-square"></i> Experience & Skills
+## <i class="fa fa-check-square-o"></i> Experience & Skills
 
 ### Applications
 Distributed Systems, Embedded Systems, Wireless Systems, Desktop Applications, Web Applications, Domain Specific Languages and Tools
