@@ -28,9 +28,9 @@ Functional Programming, Domain-Specific Languages, Machine Learning, Reactive Sy
 
 ### Projects
 
-A [synchronous dataflow programming language]({{site.url}}/dataflow.html).
+A [synchronous dataflow programming language](/posts/dataflow).
 
-A fully functional [alternative vehicle dash visualization]({{site.url}}/dash.html).
+A fully functional [alternative vehicle dash visualization](/posts/dash).
 
 ## <i class="fa fa-briefcase"></i> Employment
 

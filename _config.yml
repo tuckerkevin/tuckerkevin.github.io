@@ -5,4 +5,4 @@ markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
 pygments: true
-permalink: none
+permalink: /posts/:title
