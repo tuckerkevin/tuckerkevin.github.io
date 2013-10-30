@@ -1,0 +1,6 @@
+(imports a b)
+(exports c c-smooth c-sum)
+(def c (+ a b))
+(def c-smooth (/ (+ (pre c) c) 2))
+(def c-sum (+ (seq 0 (pre c-sum)) c))
+
