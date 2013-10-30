@@ -228,3 +228,9 @@ NOTE: adding a <i> tag with pull-left or pull-right seems to work better.
 }
 */
 
+div#disqus_thread {
+  border: 2px solid #cdd4d8;
+  border-radius: 6px;
+  padding: 1em;
+}
+
