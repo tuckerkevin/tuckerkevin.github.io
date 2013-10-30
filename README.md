@@ -1,3 +1,3 @@
-# tuckerkevin.github.io jekyll source
+# freebyintent.com jekyll source
 
-[tuckerkevin.github.io](http://tuckerkevin.github.io)
+[freebyintent.com](http://freebyintent.com)
