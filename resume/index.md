@@ -21,17 +21,6 @@ C, Python, Ruby, SQL, C++, (HTML, CSS, JavaScript), Clojure, Common Lisp, Scheme
 ### Tools
 Linux, jEdit, Git, Subversion, LaTeX, Graphviz, Processing, Arduino, OpenSCAD
 
-## <i class="fa fa-heart"></i> Interests & Independent Projects
-
-### Interests
-Functional Programming, Domain-Specific Languages, Machine Learning, Reactive Systems & Control Systems, Digital Signal Processing, Data Visualization
-
-### Projects
-
-A [synchronous dataflow programming language][dataflow].
-
-A fully functional [alternative vehicle dash visualization][dash].
-
 ## <i class="fa fa-briefcase"></i> Employment
 
 |                                              |                              |
@@ -61,7 +50,7 @@ Although TekTone is a small company, it has provided me with a good opportunity 
 
 In the past, TekTone developed each new system with no interoperability with their existing systems. I lead an effort to break this paradigm and integrate these systems on a common platform. [Now everything including our low-end stations, our high-end stations, our wireless devices, and third party systems interoperate as part of one platform.][tekcare] The development and release of this single platform to unify our fragmented product line has been one of biggest contributions I have made to the company.
 
-## <i class="fa fa-certificate"></i> Education
+## <i class="fa fa-graduation-cap"></i> Education
 
 |                                             |                         |
 |---------------------------------------------|------------------------:|
@@ -114,6 +103,17 @@ In the past, TekTone developed each new system with no interoperability with the
 | **Motorcycle Dynamics & Suspension Seminar** | July 31 - August 1 2006                    |
 | [Tony Foale Designs][tonyfoale]              | Columbus, Ohio                             |
 
+
+## <i class="fa fa-heart"></i> Interests & Independent Projects
+
+### Interests
+Functional Programming, Domain-Specific Languages, Machine Learning, Reactive Systems & Control Systems, Digital Signal Processing, Data Visualization
+
+### Projects
+
+A [synchronous dataflow programming language][dataflow].
+
+A fully functional [alternative vehicle dash visualization][dash].
 
 [gmail]:        mailto://tuckerkevin@gmail.com
 
