@@ -33,6 +33,12 @@ TekTone designs and manufactures nurse call and wireless emergency call systems.
 
 [Employee Spotlight: Kevin Tucker][spotlight]
 
+### Accomplishments
+
+Although TekTone is a small company, it has provided me with a good opportunity for growth. In my years at TekTone, I have been a positive force for change in the Engineering Department. Together we have improved the quality of software we develop and the processes we use to develop it.
+
+In the past, TekTone developed each new system with no interoperability with their existing systems. I lead an effort to break this paradigm and integrate these systems on a common platform. [Now everything including our low-end stations, our high-end stations, our wireless devices, and third party systems interoperate as part of one platform.][tekcare] The development and release of this single platform to unify our fragmented product line has been one of biggest contributions I have made to the company.
+
 ### Projects
 [*Tek-CARE 400/Tek-CARE 400 P5*][tekcare400] *(modular distributed nurse-call system):* Modules distributed throughout a facility function as a single system while providing a fault tolerant and scalable architecture. The entire system is plug and play with a functional default configuration.
 
@@ -43,12 +49,6 @@ TekTone designs and manufactures nurse call and wireless emergency call systems.
 *LS450* *(configuration tool):* This desktop application is used to upgrade, configure, synchronize, merge, and backup configurations on the Tek-CARE 400, Tek-CARE 500, and Tek-ALERT systems.
 
 [*NC402TS*][nc402ts] *(master station):* This ARM based touch-screen master station is the primary user interface to the Tek-CARE 400/Tek-CARE 400 P5 system.
-
-### Accomplishments
-
-Although TekTone is a small company, it has provided me with a good opportunity for growth. In my years at TekTone, I have been a positive force for change in the Engineering Department. Together we have improved the quality of software we develop and the processes we use to develop it.
-
-In the past, TekTone developed each new system with no interoperability with their existing systems. I lead an effort to break this paradigm and integrate these systems on a common platform. [Now everything including our low-end stations, our high-end stations, our wireless devices, and third party systems interoperate as part of one platform.][tekcare] The development and release of this single platform to unify our fragmented product line has been one of biggest contributions I have made to the company.
 
 ## <i class="fa fa-graduation-cap"></i> Education
 
