@@ -1,8 +1,9 @@
 name: Free by Intent
-description: A Blog by Kevin Tucker
+slogan: "The man who is set free is nothing but a freed man...an unfree man in the garment of freedom...he who is not self-freed is merely an emancipated man. - Max Stirner"
+description: a site by Kevin Tucker
 url: http://freebyintent.com
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
-pygments: true
+highlighter: pygments
 permalink: /posts/:title
