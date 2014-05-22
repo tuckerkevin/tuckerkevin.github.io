@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Kevin Tucker
+permalink: /about/
 ---
 
 # About Me

@@ -1,6 +1,7 @@
 ---
 layout: resume
 title: Kevin Lambert Tucker, Software Developer
+permalink: /resume/
 ---
 
 # Kevin Lambert Tucker, Software Developer
