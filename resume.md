@@ -9,7 +9,7 @@ permalink: /resume/
 |                                                                 |
 |----------------------------------------------------------------:|
 | [tuckerkevin@gmail.com <i class="fa fa-envelope-o"></i>][gmail] |
-| [freebyintent.com <i class="fa fa-globe"></i>][freebyintent]    |
+| [kevintucker.io <i class="fa fa-globe"></i>][kevintuckerio]    |
 
 ## <i class="fa fa-check-square-o"></i> Experience & Skills
 
@@ -116,21 +116,21 @@ A [synchronous dataflow programming language][dataflow].
 
 A fully functional [alternative vehicle dash visualization][dash].
 
-[gmail]:        mailto://tuckerkevin@gmail.com
+[gmail]:         mailto://tuckerkevin@gmail.com
 
-[freebyintent]: http://freebyintent.com
-[dataflow]:     /posts/dataflow
-[dash]:         /posts/dash
+[kevintuckerio]: http://kevintucker.io
+[dataflow]:      /posts/dataflow
+[dash]:          /posts/dash
 
-[tektone]:      http://www.tektone.com
-[spotlight]:    http://tektone.com/tektalk102.htm#article2
-[tekcare400]:   http://tektone.com/tekcare400.htm
-[tekcare500]:   http://tektone.com/tekcare500.htm
-[tekalert]:     http://tektone.com/blog/archives/1392
-[nc402ts]:      http://tektone.com/blog/archives/1380
-[tekcare]:      http://tektone.com/blog/archives/660
+[tektone]:       http://www.tektone.com
+[spotlight]:     http://tektone.com/tektalk102.htm#article2
+[tekcare400]:    http://tektone.com/tekcare400.htm
+[tekcare500]:    http://tektone.com/tekcare500.htm
+[tekalert]:      http://tektone.com/blog/archives/1392
+[nc402ts]:       http://tektone.com/blog/archives/1380
+[tekcare]:       http://tektone.com/blog/archives/660
 
-[coursera]:     http://coursera.org
-[udacity]:      http://udacity.com
-[tonyfoale]:    http://www.tonyfoale.com
+[coursera]:      http://coursera.org
+[udacity]:       http://udacity.com
+[tonyfoale]:     http://www.tonyfoale.com
 

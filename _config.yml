@@ -1,7 +1,7 @@
-name: Free by Intent
+name: kevintucker.io
 slogan: "The man who is set free is nothing but a freed man...an unfree man in the garment of freedom...he who is not self-freed is merely an emancipated man. - Max Stirner"
 description: a site by Kevin Tucker
-url: http://freebyintent.com
+url: http://kevintucker.io
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
