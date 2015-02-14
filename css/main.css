@@ -98,7 +98,7 @@ ul.posts span {
 .site .header h1.title {
   font-size: 200%;
   display: inline-block;
-  margin-bottom: 0.5em;
+  margin-bottom: 1em;
 }
 
 .site .header h1.title a {
@@ -137,8 +137,8 @@ ul.posts span {
 }
 
 .site .footer .contact {
-  float: left;
-  margin-right: 3em;
+  float: right;
+  margin-right: 0;
 }
 
 .site .footer .contact a {
@@ -149,7 +149,7 @@ ul.posts span {
   font-size: 150%;
   text-decoration: none;
   color: #aaa;
-  margin-right: 1em;
+  margin-left: 1em;
 }
 
 .site .footer .contact a.extra:hover {

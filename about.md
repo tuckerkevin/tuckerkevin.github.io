@@ -6,11 +6,20 @@ permalink: /about/
 
 # About Me
 
-My name is Kevin Tucker. I live in the mountains of Western North Carolina.
+My name is Kevin Tucker. I live in the mountains of Western North Carolina with my amazing girlfriend, our two dogs and one cat.
 
-I am a motorcycle enthusiast. I enjoy running, hiking, backpacking, photography, sour beer, good food and electronic music. I am a dog person.
+## Interests
 
-## Vocation
+I am a motorcycle enthusiast.
 
-I work at [TekTone](http://tektone.com) where I serve as both *Software Engineer* and *Software Coordinator*. My primary focus is on embedded systems, but our software platform includes a little bit of everything, and I work on all of it.
+My technical interests include: domain-specific languages, data visualization, machine learning, reactive systems & control systems, functional programming, digital signal processing.
 
+I enjoy running, hiking, backpacking, photography, beer (mostly IPAs and sours), good food and electronic music.
+
+## Contact
+
+[<i class="fa fa-envelope-o"></i> tuckerkevin@gmail.com](mailto:tuckerkevin@gmail.com)
+
+## Resume
+
+[<i class="fa fa-file-text-o"></i> kevintucker.io/resume](/resume)

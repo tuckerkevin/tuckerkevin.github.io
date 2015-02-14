@@ -9,18 +9,17 @@ permalink: /resume/
 |                                                                 |
 |----------------------------------------------------------------:|
 | [tuckerkevin@gmail.com <i class="fa fa-envelope-o"></i>][gmail] |
-| [kevintucker.io <i class="fa fa-globe"></i>][kevintuckerio]    |
+| [kevintucker.io <i class="fa fa-globe"></i>][kevintuckerio]     |
+
 
 ## <i class="fa fa-check-square-o"></i> Experience & Skills
 
 ### Applications
-Distributed Systems, Embedded Systems, Wireless Systems, Desktop Applications, Web Applications, Domain Specific Languages and Tools
+Embedded Systems, Distributed Systems, Wireless Systems, Desktop Applications, Web Applications, Domain-Specific Languages and Tools
 
-### Languages
-C, Python, Ruby, SQL, C++, (HTML, CSS, JavaScript), Clojure, Common Lisp, Scheme, Erlang, Haskell, MatLab, Octave, R, Lua
+### Languages & Tools
+C, Python, Ruby, SQL, C++, (HTML, CSS, JavaScript), Clojure, Common Lisp, Scheme, Erlang, Haskell, MatLab, Octave, Julia, R, Lua, Linux, jEdit, Git, Subversion, LaTeX, Graphviz, Processing, Arduino, OpenSCAD
 
-### Tools
-Linux, jEdit, Git, Subversion, LaTeX, Graphviz, Processing, Arduino, OpenSCAD
 
 ## <i class="fa fa-briefcase"></i> Employment
 
@@ -32,24 +31,22 @@ Linux, jEdit, Git, Subversion, LaTeX, Graphviz, Processing, Arduino, OpenSCAD
 
 TekTone designs and manufactures nurse call and wireless emergency call systems.
 
-[Employee Spotlight: Kevin Tucker][spotlight]
-
 ### Accomplishments
 
-Although TekTone is a small company, it has provided me with a good opportunity for growth. In my years at TekTone, I have been a positive force for change in the Engineering Department. Together we have improved the quality of software we develop and the processes we use to develop it.
+My years at TekTone have provided me with a great opportunity to develop my skills as a software developer, leader and catalyst for change within the engineering department.
 
-In the past, TekTone developed each new system with no interoperability with their existing systems. I lead an effort to break this paradigm and integrate these systems on a common platform. [Now everything including our low-end stations, our high-end stations, our wireless devices, and third party systems interoperate as part of one platform.][tekcare] The development and release of this single platform to unify our fragmented product line has been one of biggest contributions I have made to the company.
+In the past, TekTone developed each new system with no interoperability with their existing systems. I lead an effort to break this paradigm and integrate these systems on a common platform. Now everything including our [low-end stations][tekcare110], our [high-end stations][tekcare400p5], our [wireless devices][tekcare500] and [third party systems][tekalert] interoperate as part of one platform. The development and release of this single platform to unify our product line:
 
-### Projects
-[*Tek-CARE 400/Tek-CARE 400 P5*][tekcare400] *(modular distributed nurse-call system):* Modules distributed throughout a facility function as a single system while providing a fault tolerant and scalable architecture. The entire system is plug and play with a functional default configuration.
+- enables us to market new features to existing customers
+- ensures that our investments in development and support add value across our entire product line
+- enables our customers to use a single system across their various care levels
 
-[*Tek-CARE 500*][tekcare500] *(wireless emergency call system):* This legacy system has been reimplemented on the Tek-CARE 400 code base to support co-development and facilitate interaction between the two historically separate systems.
+I am constantly learning and evaluating new technologies to utilize in our development process and products. I work closely with hardware engineers and at times involve myself in mechanical design to ensure a great final product. Most importantly, in my role as Software Coordinator, I:
 
-[*Tek-ALERT*][tekalert] *(integration system):* This user-extensible system provides a uniform monitoring, messaging, and reporting platform in which both TekTone and third party systems can interoperate.
+- ensure our various software components are designed to work together as a cohesive system
+- assign tasks to our developers in a way to best utilize their unique skills while providing them with challenges and opportunities for growth
+- coordinate the timeline of the various software projects so that our release deadlines are met
 
-*LS450* *(configuration tool):* This desktop application is used to upgrade, configure, synchronize, merge, and backup configurations on the Tek-CARE 400, Tek-CARE 500, and Tek-ALERT systems.
-
-[*NC402TS*][nc402ts] *(master station):* This ARM based touch-screen master station is the primary user interface to the Tek-CARE 400/Tek-CARE 400 P5 system.
 
 ## <i class="fa fa-graduation-cap"></i> Education
 
@@ -57,15 +54,9 @@ In the past, TekTone developed each new system with no interoperability with the
 |---------------------------------------------|------------------------:|
 | **Master of Computer Science**              | May 2003                |
 | North Carolina State University             | Raleigh, North Carolina |
-
-*Favorite Courses:* Artificial Intelligence I & II, Computational Methods for Molecular Biology
-
-|                                             |                         |
-|---------------------------------------------|------------------------:|
 | **Bachelor of Science in Computer Science** | May 2001                |
 | Appalachian State University                | Boone, North Carolina   |
 
-*Favorite Courses:* Real-Time Systems
 
 ## <i class="fa fa-book"></i> Independent Coursework
 
@@ -73,48 +64,33 @@ In the past, TekTone developed each new system with no interoperability with the
 |----------------------------------------------|-------------------------------------------:|
 | **Control of Mobile Robots**                 | January - March 2013                       |
 | Magnus Egerstedt                             | [Coursera][coursera]                       |
-
-|                                              |                                            |
-|----------------------------------------------|-------------------------------------------:|
 | **Neural Networks for Machine Learning**     | October - November 2012                    |
 | Geoffrey Hinton                              | [Coursera][coursera]                       |
-
-|                                              |                                            |
-|----------------------------------------------|-------------------------------------------:|
 | **Computing for Data Analysis**              | September - October 2012                   |
 | Roger D. Peng                                | [Coursera][coursera]                       |
-
-|                                              |                                            |
-|----------------------------------------------|-------------------------------------------:|
 | **Programming a Robotic Car**                | February - April 2012                      |
 | Sebastian Thrun                              | [Udacity][udacity]                         |
-
-|                                              |                                            |
-|----------------------------------------------|-------------------------------------------:|
 | **Machine Learning**                         | October - December 2011                    |
 | Andrew Ng                                    | ml-class.org (now at [Coursera][coursera]) |
-
-|                                              |                                            |
-|----------------------------------------------|-------------------------------------------:|
 | **Introduction to Artificial Intelligence**  | October - December 2011                    |
 | Sebastian Thrun & Peter Norvig               | ai-class.com (now at [Udacity][udacity])   |
-
-|                                              |                                            |
-|----------------------------------------------|-------------------------------------------:|
 | **Motorcycle Dynamics & Suspension Seminar** | July 31 - August 1 2006                    |
 | [Tony Foale Designs][tonyfoale]              | Columbus, Ohio                             |
 
 
+<!--
 ## <i class="fa fa-heart"></i> Interests & Independent Projects
 
 ### Interests
-Functional Programming, Domain-Specific Languages, Machine Learning, Reactive Systems & Control Systems, Digital Signal Processing, Data Visualization
+Domain-Specific Languages, Data Visualization, Machine Learning, Reactive Systems & Control Systems, Functional Programming, Digital Signal Processing
 
 ### Projects
 
 A [synchronous dataflow programming language][dataflow].
 
-A fully functional [alternative vehicle dash visualization][dash].
+An alternative [vehicle dash visualization][dash].
+-->
+
 
 [gmail]:         mailto://tuckerkevin@gmail.com
 
@@ -124,13 +100,11 @@ A fully functional [alternative vehicle dash visualization][dash].
 
 [tektone]:       http://www.tektone.com
 [spotlight]:     http://tektone.com/tektalk102.htm#article2
-[tekcare400]:    http://tektone.com/tekcare400.htm
+[tekcare110]:    http://tektone.com/tekcarenc110n-nc150n-nc200n.php
+[tekcare400p5]:  http://tektone.com/tekcare400p5.php
 [tekcare500]:    http://tektone.com/tekcare500.htm
-[tekalert]:      http://tektone.com/blog/archives/1392
-[nc402ts]:       http://tektone.com/blog/archives/1380
-[tekcare]:       http://tektone.com/blog/archives/660
+[tekalert]:      http://tektone.com/tekalert.php
 
 [coursera]:      http://coursera.org
 [udacity]:       http://udacity.com
 [tonyfoale]:     http://www.tonyfoale.com
-
