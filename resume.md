@@ -23,11 +23,11 @@ C, Python, Ruby, SQL, C++, (HTML, CSS, JavaScript), Clojure, Common Lisp, Scheme
 
 ## <i class="fa fa-briefcase"></i> Employment
 
-|                                              |                              |
-|----------------------------------------------|-----------------------------:|
-| **Software Engineer / Software Coordinator** | October 2008 - Present       |
-| **Software Engineer**                        | November 2003 - October 2008 |
-| [TekTone Sound & Signal Mfg., Inc.][tektone] | Franklin, North Carolina     |
+|                                              |                |
+|----------------------------------------------|---------------:|
+| **Software Engineer / Software Coordinator** | 2008 - Present |
+| **Software Engineer**                        | 2003 - 2008    |
+| [TekTone Sound & Signal Mfg., Inc.][tektone] |                |
 
 TekTone designs and manufactures nurse call and wireless emergency call systems.
 
@@ -50,32 +50,32 @@ I am constantly learning and evaluating new technologies to utilize in our devel
 
 ## <i class="fa fa-graduation-cap"></i> Education
 
-|                                             |                         |
-|---------------------------------------------|------------------------:|
-| **Master of Computer Science**              | May 2003                |
-| North Carolina State University             | Raleigh, North Carolina |
-| **Bachelor of Science in Computer Science** | May 2001                |
-| Appalachian State University                | Boone, North Carolina   |
+|                                             |      |
+|---------------------------------------------|-----:|
+| **Master of Computer Science**              | 2003 |
+| North Carolina State University             |      |
+| **Bachelor of Science in Computer Science** | 2001 |
+| Appalachian State University                |      |
 
 
 ## <i class="fa fa-book"></i> Independent Coursework
 
-|                                              |                                            |
-|----------------------------------------------|-------------------------------------------:|
-| **Control of Mobile Robots**                 | January - March 2013                       |
-| Magnus Egerstedt                             | [Coursera][coursera]                       |
-| **Neural Networks for Machine Learning**     | October - November 2012                    |
-| Geoffrey Hinton                              | [Coursera][coursera]                       |
-| **Computing for Data Analysis**              | September - October 2012                   |
-| Roger D. Peng                                | [Coursera][coursera]                       |
-| **Programming a Robotic Car**                | February - April 2012                      |
-| Sebastian Thrun                              | [Udacity][udacity]                         |
-| **Machine Learning**                         | October - December 2011                    |
-| Andrew Ng                                    | ml-class.org (now at [Coursera][coursera]) |
-| **Introduction to Artificial Intelligence**  | October - December 2011                    |
-| Sebastian Thrun & Peter Norvig               | ai-class.com (now at [Udacity][udacity])   |
-| **Motorcycle Dynamics & Suspension Seminar** | July 31 - August 1 2006                    |
-| [Tony Foale Designs][tonyfoale]              | Columbus, Ohio                             |
+|                                                                          |      |
+|--------------------------------------------------------------------------|-----:|
+| **Control of Mobile Robots**                                             | 2013 |
+| [Coursera][coursera], Magnus Egerstedt                                   |      |
+| **Neural Networks for Machine Learning**                                 | 2012 |
+| [Coursera][coursera], Geoffrey Hinton                                    |      |
+| **Computing for Data Analysis**                                          | 2012 |
+| [Coursera][coursera], Roger D. Peng                                      |      |
+| **Programming a Robotic Car**                                            | 2012 |
+| [Udacity][udacity], Sebastian Thrun                                      |      |
+| **Machine Learning**                                                     | 2011 |
+| ml-class.org (now at [Coursera][coursera]), Andrew Ng                    |      |
+| **Introduction to Artificial Intelligence**                              | 2011 |
+| ai-class.com (now at [Udacity][udacity]), Sebastian Thrun & Peter Norvig |      |
+| **Motorcycle Dynamics & Suspension Seminar**                             | 2006 |
+| [Tony Foale Designs][tonyfoale], Tony Foale                              |      |
 
 
 <!--
