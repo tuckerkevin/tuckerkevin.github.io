@@ -18,14 +18,14 @@ permalink: /racing-history/
 | **2015 Pirelli/WERA Sportsman Series** |
 | Virginia International Raceway         |
 
-|            |                                     |       |   |
-|------------|-------------------------------------|-------|---|
-| 2015-08-02 | Formula 2 Novice                    | SV650 | 1 |
-| 2015-08-02 | Lightweight Twins Superstock Novice | SV650 | 2 |
-| 2015-08-02 | Lightweight Twins Superbike Novice  | SV650 | 1 |
-| 2015-08-01 | Lightweight Twins Superbike Novice  | SV650 | 1 |
-| 2015-08-01 | Lightweight Twins Superstock Novice | SV650 | 2 |
-| 2015-08-01 | Formula 2 Novice                    | SV650 | 1 |
+|            |                                     |       |     |
+|------------|-------------------------------------|-------|-----|
+| 2015-08-02 | Formula 2 Novice                    | SV650 | 1st |
+| 2015-08-02 | Lightweight Twins Superstock Novice | SV650 | 2nd |
+| 2015-08-02 | Lightweight Twins Superbike Novice  | SV650 | 1st |
+| 2015-08-01 | Lightweight Twins Superbike Novice  | SV650 | 1st |
+| 2015-08-01 | Lightweight Twins Superstock Novice | SV650 | 2nd |
+| 2015-08-01 | Formula 2 Novice                    | SV650 | 1st |
 
 ## <i class="fa fa-external-link"></i> Links
 
