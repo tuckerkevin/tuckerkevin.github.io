@@ -16,14 +16,14 @@ My technical interests include: domain-specific languages, data visualization, m
 
 I enjoy running, hiking, backpacking, photography, beer (mostly IPAs and sours), good food and electronic music.
 
-## Contact
+## Racing
 
-[<i class="fa fa-envelope-o"></i> tuckerkevin@gmail.com](mailto:tuckerkevin@gmail.com)
+[<i class="fa fa-file-text-o"></i> kevintucker.io/racing-history](/racing-history)
 
 ## Resume
 
 [<i class="fa fa-file-text-o"></i> kevintucker.io/resume](/resume)
 
-## Racing
+## Contact
 
-[<i class="fa fa-file-text-o"></i> kevintucker.io/racing-history](/racing-history)
+[<i class="fa fa-envelope-o"></i> tuckerkevin@gmail.com](mailto:tuckerkevin@gmail.com)
