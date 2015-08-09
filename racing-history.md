@@ -27,6 +27,9 @@ permalink: /racing-history/
 | 2015-08-01 | Lightweight Twins Superstock Novice | SV650 | 2 |
 | 2015-08-01 | Formula 2 Novice                    | SV650 | 1 |
 
+## <i class="fa fa-external-link"></i> Links
+
+- [WERA Racer Profile](http://maps.wera.com/racers/racerprofile.asp?rid=30575644398148)
 
 [gmail]:         mailto://tuckerkevin@gmail.com
 [kevintuckerio]: http://kevintucker.io
