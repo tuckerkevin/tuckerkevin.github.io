@@ -13,7 +13,10 @@ permalink: /racing-history/
 
 ## <i class="fa fa-trophy"></i> Racing History
 
-### 2015 Pirelli/WERA Sportsman Series, Virginia International Raceway
+|                                        |
+|----------------------------------------|
+| **2015 Pirelli/WERA Sportsman Series** |
+| Virginia International Raceway         |
 
 |            |                                     |       |   |
 |------------|-------------------------------------|-------|---|
