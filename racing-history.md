@@ -23,3 +23,7 @@ permalink: /racing-history/
 | 2015-08-01 | Lightweight Twins Superbike Novice  | SV650 | 1 |
 | 2015-08-01 | Lightweight Twins Superstock Novice | SV650 | 2 |
 | 2015-08-01 | Formula 2 Novice                    | SV650 | 1 |
+
+
+[gmail]:         mailto://tuckerkevin@gmail.com
+[kevintuckerio]: http://kevintucker.io
