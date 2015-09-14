@@ -13,6 +13,20 @@ permalink: /racing-history/
 
 ## <i class="fa fa-trophy"></i> Racing History
 
+|                                                                           |
+|---------------------------------------------------------------------------|
+| **2015 Pirelli/WERA Sportsman Series and WERA National Challenge Series** |
+| Road Atlanta                                                              |
+
+|            |                                     |       |     |
+|------------|-------------------------------------|-------|-----|
+| 2015-09-13 | Lightweight Twins Superbike Novice  | SV650 | 1st |
+| 2015-09-13 | Lightweight Twins Superstock Novice | SV650 | 2nd |
+| 2015-09-13 | Formula 2 Novice                    | SV650 | 1st |
+| 2015-09-12 | Lightweight Twins Superbike Novice  | SV650 | 2nd |
+| 2015-09-12 | Lightweight Twins Superstock Novice | SV650 | 2nd |
+| 2015-09-12 | Formula 2 Novice                    | SV650 | 2nd |
+
 |                                        |
 |----------------------------------------|
 | **2015 Pirelli/WERA Sportsman Series** |
