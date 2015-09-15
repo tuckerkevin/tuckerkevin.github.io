@@ -18,7 +18,7 @@ I enjoy running, hiking, backpacking, photography, beer (mostly IPAs and sours),
 
 ## Racing
 
-[<i class="fa fa-file-text-o"></i> kevintucker.io/racing-history](/racing-history)
+[<i class="fa fa-flag-checkered"></i> kevintucker.io/racing-history](/racing-history)
 
 ## Resume
 

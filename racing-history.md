@@ -11,7 +11,7 @@ permalink: /racing-history/
 | [tuckerkevin@gmail.com <i class="fa fa-envelope-o"></i>][gmail] |
 | [kevintucker.io <i class="fa fa-globe"></i>][kevintuckerio]     |
 
-## <i class="fa fa-trophy"></i> Racing History
+## <i class="fa fa-flag-checkered"></i> Racing History
 
 |                                                                           |
 |---------------------------------------------------------------------------|
