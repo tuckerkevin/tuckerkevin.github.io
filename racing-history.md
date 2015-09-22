@@ -13,6 +13,21 @@ permalink: /racing-history/
 
 ## <i class="fa fa-flag-checkered"></i> Racing History
 
+|                                            |
+|--------------------------------------------|
+| **VIR End-of Summer Cyclefest**            |
+| CCS Mid-Atlantic & Southeast Championships |
+| Featuring AMA Road Race Championships      |
+| Virginia International Raceway             |
+
+|            |                                        |       |     |
+|------------|----------------------------------------|-------|-----|
+| 2015-09-19 | Lightweight SuperSport Amateur         | SV650 | 1st |
+| 2015-09-19 | Ultra Light SuperBike Amateur          | SV650 | 1st |
+| 2015-09-20 | Lightweight Grand Prix Amateur         | SV650 | 1st |
+| 2015-09-20 | AMA Lightweight Twin SuperBike Amateur | SV650 | 3rd |
+| 2015-09-20 | Lightweight SuperBike Amateur          | SV650 | 1st |
+
 |                                                                           |
 |---------------------------------------------------------------------------|
 | **2015 Pirelli/WERA Sportsman Series and WERA National Challenge Series** |
