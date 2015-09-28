@@ -13,6 +13,20 @@ permalink: /racing-history/
 
 ## <i class="fa fa-flag-checkered"></i> Racing History
 
+|                                        |
+|----------------------------------------|
+| **2015 Pirelli/WERA Sportsman Series** |
+| Carolina Motorsports Park              |
+
+|            |                                     |       |     |
+|------------|-------------------------------------|-------|-----|
+| 2015-09-26 | Lightweight Twins Superstock Novice | SV650 | 1st |
+| 2015-09-26 | Lightweight Twins Superbike Novice  | SV650 | 1st |
+| 2015-09-26 | Formula 2 Novice                    | SV650 | 1st |
+| 2015-09-27 | Formula 2 Novice                    | SV650 | 1st |
+| 2015-09-27 | Lightweight Twins Superstock Novice | SV650 | 1st |
+| 2015-09-27 | Lightweight Twins Superbike Novice  | SV650 | 1st |
+
 |                                            |
 |--------------------------------------------|
 | **VIR End-of Summer Cyclefest**            |
