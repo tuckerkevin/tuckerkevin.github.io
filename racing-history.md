@@ -11,7 +11,21 @@ permalink: /racing-history/
 | [tuckerkevin@gmail.com <i class="fa fa-envelope-o"></i>][gmail] |
 | [kevintucker.io <i class="fa fa-globe"></i>][kevintuckerio]     |
 
-## <i class="fa fa-flag-checkered"></i> Racing History
+## <i class="fa fa-flag-checkered"></i> Race Finishes
+
+|                                                          |
+|----------------------------------------------------------|
+| **43rd WERA Grand National Finals**                      |
+| **Pirelli/WERA Sportsman Series National Championships** |
+| **WERA National Challenge Series**                       |
+| Barber Motorsports Park                                  |
+
+|            |                                                    |       |     |
+|------------|----------------------------------------------------|-------|-----|
+| 2015-10-24 | Lightweight Twins Superbike Novice National Finals | SV650 | 1st |
+| 2015-10-24 | Formula 2 Novice National Finals                   | SV650 | 1st |
+| 2015-10-25 | Lightweight Twins Superstock Novice                | SV650 | 3rd |
+| 2015-10-25 | Formula 2 Novice                                   | SV650 | 2nd |
 
 |                                        |
 |----------------------------------------|
