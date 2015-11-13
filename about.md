@@ -12,7 +12,7 @@ My name is Kevin Tucker. I live in the mountains of Western North Carolina with 
 
 I enjoy motorcycle racing, running, hiking, backpacking, craft beer (mostly IPAs and sours), good food and electronic music.
 
-My technical interests include: domain-specific languages, data visualization, machine learning, reactive systems & control systems, functional programming, digital signal processing.
+My technical interests include: domain-specific languages, data visualization, machine learning, reactive systems & control systems, functional programming, digital signal processing, sound synthesis.
 
 ## Racing
 
