@@ -6,17 +6,17 @@ permalink: /about/
 
 # About Me
 
-My name is Kevin Tucker. I live in the mountains of Western North Carolina with my amazing girlfriend, our two dogs and one cat.
+My name is Kevin Tucker. I live in the mountains of Western North Carolina.
 
 ## Interests
 
-I enjoy motorcycle racing, running, hiking, backpacking, craft beer (mostly IPAs and sours), good food and electronic music.
+I enjoy motorcycle racing, weight lifting, hiking and backpacking.
 
 My technical interests include: domain-specific languages, data visualization, machine learning, reactive systems & control systems, functional programming, digital signal processing, sound synthesis.
 
 ## Racing
 
-[<i class="fa fa-flag-checkered"></i> kevintucker.io/racing-history](/racing-history)
+[<i class="fa fa-flag-checkered"></i> WERA Racer Profile](http://maps.wera.com/racers/racerprofile.asp?rid=30575644398148)
 
 ## Resume
 
